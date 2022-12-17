@@ -6,7 +6,7 @@
   <p align="center">
     Katalon Test
     <br />
-    <a href="https://saucedemo.com/"><strong>| Reqres Testing Report |</strong></a>
+    <a href="https://reqres.in/"><strong>| Reqres Testing Report |</strong></a>
     <br />
     <br />
   </p>
